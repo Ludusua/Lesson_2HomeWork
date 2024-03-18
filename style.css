@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    border: 2px solid black;
+}
+table {
+    margin-bottom: 50px;
+}
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#table1 tr:nth-child(odd) {
+    background-color: gray;
+}
+img {
+    width: 1000px;
+    height: 700px;
+}
+
+#link{
+
+    text-align: center;
+
+    
+}
